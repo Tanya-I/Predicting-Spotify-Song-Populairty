@@ -1,5 +1,5 @@
 # Predicting-Spotify-Song-Popularity
-## Introduction/About
+## Introduction
 This project aims to predict the popularity of songs using Spotify audio features. It involves:
 
 - Data exploration
@@ -7,7 +7,7 @@ This project aims to predict the popularity of songs using Spotify audio feature
 - Application of machine learning models like Linear Regression and Random Forest Regression
 - The dataset contains various audio features provided by Spotify for a large number of songs
 
-## Problem definition:
+## Problem definition
 - Can we build a model to predict how popular (0-100 based on streams) a song will be on Spotify using audio features like danceability, energy, and speechiness, among others?
 
 ## Data Exploration and Preprocessing
