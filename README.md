@@ -21,11 +21,12 @@ This phase includes:
 1. Linear Regression:
    - An attempt is made to predict song popularity using Linear Regression
    - The dataset is split into training and testing sets, and the model is trained and evaluated
-   - Despite efforts, the initial model yields low R^2 values, indicating poor predictive performance
+   - Despite efforts, the initial model yields low R^2 value and high MSE value, indicating poor predictive performance
 
 2. Linear Regression with undersampling:
    - Due to the unbalanced nature of the dataset, undersampling is performed to address the imbalance between popular and unpopular songs
    - The process involves randomly sampling a subset of less popular songs to achieve a balanced dataset
+   - To explore different levels of undersampling, multiple cutoff values were employed, including 70, 80, 85, and 90.
 
 3. Random Forest Regression:
    - A Random Forest Regression model is implemented to predict song popularity after undersampling
