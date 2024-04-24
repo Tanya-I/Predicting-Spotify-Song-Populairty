@@ -1,4 +1,4 @@
-### Predicting-Spotify-Song-Populairty
+# Predicting-Spotify-Song-Populairty
 ## Introduction/About
 This project aims to predict the popularity of songs using Spotify audio features. It involves:
 
