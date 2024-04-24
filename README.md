@@ -60,9 +60,9 @@ The key learnings from the project include:
 - Enhanced understanding of machine learning concepts, programming skills, and real-world data analysis experience
 
 ## Individual Contribution
-Agarwal Radhika - Data cleaning and preparation, Presentation Slides
-Irani Tanya- Linear Regression and Undersampling
-Shukla Ishita- Data Exploration , Random Forest Regression
+-Agarwal Radhika - Data cleaning and preparation, Presentation Slides
+-Irani Tanya- Linear Regression and Undersampling
+-Shukla Ishita- Data Exploration , Random Forest Regression
 
 ## References 
 -scikit-learn. (2018). 3.2.4.3.2. sklearn.ensemble.RandomForestRegressor — scikit-learn 0.20.3 documentation. Scikit-Learn.org. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
