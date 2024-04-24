@@ -57,3 +57,13 @@ The key learnings from the project include:
 - Leveraging external data sources through API integration
 - Experimenting with neural networks using Keras and TensorFlow
 - Enhanced understanding of machine learning concepts, programming skills, and real-world data analysis experience
+
+## References 
+-scikit-learn. (2018). 3.2.4.3.2. sklearn.ensemble.RandomForestRegressor — scikit-learn 0.20.3 documentation. Scikit-Learn.org. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+-scikit-learn developers. (2019). Sklearn.linear_model.LinearRegression — scikit-learn 0.22 documentation. Scikit-Learn.org. https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+-SciKit Learn. (2019). Sklearn.model_selection.GridSearchCV — scikit-learn 0.22 documentation. Scikit-Learn.org. https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+-Quantile Quantile plots. (2021, January 19). GeeksforGeeks. https://www.geeksforgeeks.org/quantile-quantile-plots/
+-🎹 Spotify Tracks Dataset. (n.d.). Www.kaggle.com. https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
+-More, A. (n.d.). Survey of resampling techniques for improving classification performance in unbalanced datasets. https://arxiv.org/pdf/1608.06048.pdf
+-Learning from Imbalanced Classes. (n.d.). KDnuggets. https://www.kdnuggets.com/2016/08/learning-from-imbalanced-classes.html/2
+
